@@ -191,7 +191,7 @@ h1 {
 #bildzwei {
   background-image: url("./bilder/bild2.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   position: absolute;
   top: 0;
   left: 0;
