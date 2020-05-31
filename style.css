@@ -188,6 +188,7 @@ h1 {
   background-image: url("./bilder/bild2.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
+  background: fixed;
   position: absolute;
   top: 0;
   left: 0;
