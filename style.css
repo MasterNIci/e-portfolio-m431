@@ -186,6 +186,7 @@ h1 {
 
 #bildzwei {
   background-image: url("./bilder/bild2.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -198,6 +199,7 @@ h1 {
 
 #bilddrei {
   background-image: url("./bilder/bild3.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -210,6 +212,7 @@ h1 {
 
 #bildvier {
   background-image: url("./bilder/bild4.png");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -222,6 +225,7 @@ h1 {
 
 #bildfunf {
   background-image: url("./bilder/bild5.png");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -234,6 +238,7 @@ h1 {
 
 #bildsechs {
   background-image: url("./bilder/bild6.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -246,6 +251,7 @@ h1 {
 
 #bildsieben {
   background-image: url("./bilder/bild7.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -258,6 +264,7 @@ h1 {
 
 #bildacht {
   background-image: url("./bilder/bild8.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -270,6 +277,7 @@ h1 {
 
 #bildneun {
   background-image: url("./bilder/bild9.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -282,6 +290,7 @@ h1 {
 
 #bildzehn {
   background-image: url("./bilder/bild10.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -294,6 +303,7 @@ h1 {
 
 #bildelf {
   background-image: url("./bilder/bild11.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -306,6 +316,7 @@ h1 {
 
 #bildzwolf {
   background-image: url("./bilder/bild12.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -318,6 +329,7 @@ h1 {
 
 #bilddreizehn {
   background-image: url("./bilder/bild13.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -330,6 +342,7 @@ h1 {
 
 #bildvierzehn {
   background-image: url("./bilder/bild2.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -343,6 +356,7 @@ h1 {
 
 #bildstart {
   background-image: url("./bilder/bild1.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -354,6 +368,7 @@ h1 {
 }
 #bildfunfzehn {
   background-image: url("./bilder/bild2.jpg");
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
