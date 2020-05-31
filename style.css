@@ -208,16 +208,11 @@ h1 {
 
 #bildvier {
   background-image: url("./bilder/bild4.png");
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  min-width: 50%;
-  min-height: 50%;
-}
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
 
 #bildfunf {
   background-image: url("./bilder/bild5.png");
