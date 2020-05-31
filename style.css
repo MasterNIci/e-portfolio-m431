@@ -177,91 +177,91 @@ h1 {
 }
 
 #bildzwei {
-  background-image: url("../bilder/bild2.png");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bilddrei {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildvier {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildfunf {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildsechs {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildsieben {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildacht {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildneun {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildzehn {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildelf {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildzwolf {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bilddreizehn {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 
 #bildvierzehn {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
@@ -269,13 +269,13 @@ h1 {
 
 
 #bildstart {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
 }
 #bildfunfzehn {
-  background-image: url("");
+  background-image: url("./bilder/bild2.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
