@@ -184,6 +184,10 @@ h1 {
   margin-left:55%;
 }
 
+.bodystartseite{
+  background-size: cover;
+}
+
 #bildzwei {
   background-image: url("./bilder/bild2.jpg");
   background-repeat: no-repeat;
