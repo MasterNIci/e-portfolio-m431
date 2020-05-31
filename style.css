@@ -25,10 +25,14 @@ nav {
   flex-direction: column;
   justify-content: flex-start;
   position: fixed;
-  margin-top: 1%;
   padding-bottom: 1%;
   width: 28%;
   padding-left: 0.5vw;
+  background: grey;
+  bottom: 0;
+  top: 0;
+  opacity: 0.8;
+}
 }
 
 header {
