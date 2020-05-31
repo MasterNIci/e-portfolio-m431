@@ -179,14 +179,9 @@ h1 {
 
 #bildzwei {
   background-image: url("./bilder/bild2.png");
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  min-width: 50%;
-  min-height: 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
 }
 
 #bilddrei {
