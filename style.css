@@ -175,8 +175,7 @@ h1 {
      font-size: 540%;
   margin-left: 30%;
   margin-right: 2%;
-  background-color: white;
-  opacity: 0.6;
+  background-color: rgba(255, 255, 255, 0.6);
     border-color: black;
 }
 
