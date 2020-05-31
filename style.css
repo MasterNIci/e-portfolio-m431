@@ -25,10 +25,14 @@ nav {
   flex-direction: column;
   justify-content: flex-start;
   position: fixed;
-  margin-top: 1%;
   padding-bottom: 1%;
   width: 28%;
   padding-left: 0.5vw;
+  background: grey;
+  bottom: 0;
+  top: 0;
+  background-color: rgba(27, 27, 27, 0.8);
+}
 }
 
 header {
@@ -71,6 +75,7 @@ a {
 
 .eins {
   margin-right: 1vw;
+  margin-top: 20px;
 }
 #one {
   color: white;
@@ -154,10 +159,12 @@ p {
 }
 
 div {
+  width: 95%;
   background-color: white;
   margin-top: 18%;
   margin-left: 2.7%;
   padding: 1% 1% 1% 1%;
+  box-shadow: 0px 0px 39px 36px rgba(255, 255, 255, 0.75);
 }
 
 h1 {
@@ -179,106 +186,180 @@ h1 {
 
 #bildzwei {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bilddrei {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildvier {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildfunf {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildsechs {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildsieben {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildacht {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildneun {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildzehn {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildelf {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildzwolf {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bilddreizehn {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 #bildvierzehn {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 
 
 #bildstart {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
 #bildfunfzehn {
   background-image: url("./bilder/bild2.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
-
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
 }
