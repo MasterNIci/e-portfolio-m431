@@ -177,7 +177,7 @@ h1 {
 }
 
 #bildzwei {
-  background-image: url("");
+  background-image: url("../bilder/test.bmp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
