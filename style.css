@@ -177,6 +177,7 @@ h1 {
   margin-right: 2%;
   background-color: rgba(255, 255, 255, 0.6);
     border-color: black;
+    margin-top: 20%;
 }
 
 .pfeil {
@@ -188,124 +189,6 @@ h1 {
 }
 
 #bildzwei {
-  background-image: url("./bilder/bild2.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bilddrei {
-  background-image: url("./bilder/bild3.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildvier {
-  background-image: url("./bilder/bild4.png");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildfunf {
-  background-image: url("./bilder/bild5.png");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildsechs {
-  background-image: url("./bilder/bild6.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildsieben {
-  background-image: url("./bilder/bild7.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildacht {
-  background-image: url("./bilder/bild8.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildneun {
-  background-image: url("./bilder/bild9.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildzehn {
-  background-image: url("./bilder/bild10.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildelf {
-  background-image: url("./bilder/bild11.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildzwolf {
-  background-image: url("./bilder/bild12.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bilddreizehn {
-  background-image: url("./bilder/bild13.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-#bildvierzehn {
-  background-image: url("./bilder/bild2.jpg");
-  width: -webkit-fill-available;
-      background-position: bottom center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;
-}
-
-
-#bildstart {
   background-image: url("./bilder/bild1.jpg");
   width: -webkit-fill-available;
       background-position: bottom center;
@@ -314,11 +197,147 @@ h1 {
       background-attachment: fixed;
 }
 
-#bildfunfzehn {
-  background-image: url("./bilder/bild2.jpg");
+#bilddrei {
+  background-image: url("./bilder/Aufbau.jpg");
   width: -webkit-fill-available;
       background-position: bottom center;
       background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed;
 }
+
+#bildvier {
+  background-image: url("./bilder/bild3.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildfunf {
+  background-image: url("./bilder/bild4.png");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildsechs {
+  background-image: url("./bilder/bild5.png");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildsieben {
+  background-image: url("./bilder/bild6.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildacht {
+  background-image: url("./bilder/bild7.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildneun {
+  background-image: url("./bilder/bild8.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildzehn {
+  background-image: url("./bilder/stru.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildelf {
+  background-image: url("./bilder/bild10.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildzwolf {
+  background-image: url("./bilder/bild11.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bilddreizehn {
+  background-image: url("./bilder/bild12.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildvierzehn {
+  background-image: url("./bilder/bild13.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+
+.startbild {
+  background-image: url("./bilder/startbild.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#bildfunfzehn {
+  background-image: url("./bilder/help.jpg");
+  width: -webkit-fill-available;
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+.links {
+  float: right;
+  margin-left: 10px;
+  } 
+
+  h3 {
+    font-size: 21px;
+  }
+
+  h4 {
+    font-size: 19px;
+  }
+
+  .quellen {
+    color: black;
+  }
+
+
+
